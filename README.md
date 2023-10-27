@@ -79,7 +79,7 @@ public class VilleCountDriver {
 </pre>
 <h6>Run application</h6>
 <p>hadoop jar TP1_MapReduce-1.0-SNAPSHOT.jar org.example1.VilleCountDriver /ventes.txt /output</p>
-<img src="javaProjects/sdia_S3/tp2-MapReduce/img_1_.png">
+<img src="img_1_.png">
 <img src="img_4.png">
 
 <h5>Partie 2</h5>
@@ -144,7 +144,7 @@ public class SalesDriver {
 }
 </pre>
 <h6>Run application</h6>
-<img src="javaProjects/sdia_S3/tp2-MapReduce/img_2_.png">
+<img src="img_2_.png">
 <img src="img_3.png">
 <br>
 <h5>Exercice 2</h5>
